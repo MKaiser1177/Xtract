@@ -1,4 +1,4 @@
-# Multi-Language Invoice Extractor
+# Xtract (Multi-Language Invoice Extractor)
 
 This project is a Streamlit web app that lets you upload an invoice image and ask questions about it in natural language. It uses Google Gemini to analyze the invoice content and generate responses based on the uploaded document.
 
